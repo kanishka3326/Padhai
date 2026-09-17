@@ -1,2 +1,2 @@
-# Padhai
-AI learning app
+# Padh-Ai
+AI POWERED ADAPTIVE LEARNING PLATFORM
